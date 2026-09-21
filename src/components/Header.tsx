@@ -171,7 +171,6 @@ export const Header: React.FC<HeaderProps> = ({
           className="cursor-pointer text-center select-none group py-1"
         >
           <AlpsLogo
-            iconColor="#74584d"
             textColor="text-[#1c1c19] group-hover:text-[#74584d] transition-colors"
             subtitle="PURE ESSENCE"
           />
