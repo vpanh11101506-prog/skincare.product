@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130" width="100%" height="100%" fill="none">
+  <!-- DÃY NÚI VÀNG CÁT ALPS Ở PHÍA SAU (#d9b775) -->
+  <!-- 
+    Đỉnh núi chính cao nhất ở giữa lệch phải (x=101, y=28)
+    Đỉnh phụ bên phải (x=132, y=49)
+    Chân núi dốc trái đi xuống (x=45, y=90)
+  -->
+  <path
+    d="M45 88 L58 75 L67 80 L76 68 L84 72 L93 54 L98 56 L101 28 L108 42 L116 38 L126 55 L132 49 L143 65 L151 76"
+    stroke="#d9b775"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Rãnh nứt / Nếp gấp sườn đỉnh núi vàng chính -->
+  <path
+    d="M101 28 L98 46 L91 55"
+    stroke="#d9b775"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- RẶNG NÚI RÊU / XANH LÁ RỪNG Ở PHÍA TRƯỚC (#3b5a45) -->
+  <!--
+    Bắt đầu từ chân trái (x=33, y=89)
+    Đỉnh núi xanh 1 (x=50, y=70)
+    Đỉnh núi xanh 2 (x=67, y=55)
+    Đỉnh núi xanh 3 (x=80, y=66)
+    Uốn lượn thung lũng (x=98, y=86)
+    Nối mượt mà vào cuống chiếc lá (x=120, y=89)
+  -->
+  <path
+    d="M33 89 L42 78 L50 70 L59 84 L67 55 L75 74 L80 66 L98 87 L114 89 L125 89"
+    stroke="#3b5a45"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- CHIẾC LÁ HỮU CƠ TỰ NHIÊN (#3b5a45) -->
+  <!--
+    Đầu nhọn lá hướng lên trên chếch sang phải (x=152, y=47)
+    Bầu lá uốn cong xuống cuống lá (x=124, y=89)
+  -->
+  <path
+    d="M124 89 C119 74 124 55 152 47 C155 64 148 83 125 89 Z"
+    stroke="#3b5a45"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <!-- Gân lá cong mềm mại từ cuống đến gần chóp lá -->
+  <path
+    d="M128 84 C134 74 142 63 150 50"
+    stroke="#3b5a45"
+    stroke-width="2.6"
+    stroke-linecap="round"
+  />
+
+  <!-- GIỌT SƯƠNG / TINH CHẤT RƠI DƯỚI BẦU LÁ (#3b5a45) -->
+  <!--
+    Nằm ở góc dưới bên phải của lá (chóp nhọn x=154, y=74; bầu tròn x=154, y=87)
+  -->
+  <path
+    d="M154 74 C154 74 161 82 161 87 C161 91 158 94 154 94 C150 94 147 91 147 87 C147 82 154 74 154 74 Z"
+    stroke="#3b5a45"
+    stroke-width="2.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
